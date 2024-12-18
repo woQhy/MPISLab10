@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab 10. Nikiforov Aleks AS-63</string>
+
+    <string name="fragment_add_title">Add your note</string>
+    <string name="fragment_add_hint">Note</string>
+    <string name="fragment_add_btn">Add</string>
+    <string name="fragment_show_noitems">No Notes!</string>
+
+    <string name="fragment_del_title">Delete note</string>
+    <string name="fragment_del_hint">Note ID</string>
+    <string name="fragment_del_btn">Delete</string>
+
+    <string name="fragment_upd_title">Update note</string>
+    <string name="fragment_upd_hint_id">Node ID</string>
+    <string name="fragment_upd_hint_description">New Description</string>
+    <string name="fragment_upd_btn">Update</string>
+
+    <string name="fragment_show_counter">Counter</string>
+    <string name="fragment_show_reload">Reload</string>
+
+    <string name="field_error">Fill all fields</string>
+
+    <string name="author">Никифоров Александр Иванович</string>
+    <string name="authorBtn">Author</string>
+</resources>
